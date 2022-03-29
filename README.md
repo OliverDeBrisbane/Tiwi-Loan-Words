@@ -1,2 +1,0 @@
-# debriz
-List of stuff
